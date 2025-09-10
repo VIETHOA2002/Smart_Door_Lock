@@ -1,5 +1,6 @@
 # IOT_01
 *Chức năng
+
 • Mở khóa cho người được phép vào nhà → Phân biệt được
 người được phép/ko được phép vào nhà → Dùng cảm biến
 vẫn tay, mã vạch, mã QR, thẻ RFID
