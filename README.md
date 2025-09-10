@@ -50,7 +50,7 @@ Còi + Khóa điện 12V: Thiết bị chấp hành.
 
 4. Giao tiếp với máy tính
 
-CH340 USB-UART: Cổng USB mini để nạp code cho ATmega328P.
+CH340 USB-UART: Cổng USB mini để nạp code cho ATmega328P và ESP8266
 
 Switch: Chuyển đổi UART giữa ESP8266 và USB để nạp code/ giao tiếp.
 
