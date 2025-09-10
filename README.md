@@ -1,5 +1,15 @@
 # IOT_01
-PCB
+*Chức năng
+• Mở khóa cho người được phép vào nhà → Phân biệt được
+người được phép/ko được phép vào nhà → Dùng cảm biến
+vẫn tay, mã vạch, mã QR, thẻ RFID
+• Có thể thêm/bớt người sử dụng → Có nút nhấn thêm/xóa user
+• Lưu danh sách người sử dụng > Lưu dữ liệu vô EEPROM
+• Khóa/mở khóa tự động → Dùng khóa điện từ (Solenoid)
+• Phát hiện rung động mạnh > Cảm biến gia tốc, cảm biến rung
+Cảnh báo đột nhập trái phép > Dùng âm thanh, gửi trạng thái
+vào/ra/cảnh báo đột nhập về điện thoại qua mạng Internet.
+
 1. Nguồn cấp
 
 12VDC Input: nguồn vào chính 12V.
