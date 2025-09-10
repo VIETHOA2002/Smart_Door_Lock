@@ -65,12 +65,12 @@ vẫn tay, mã vạch, mã QR, thẻ RFID
 
 • Có thể thêm/bớt người sử dụng → Có nút nhấn thêm/xóa user
 
-• Lưu danh sách người sử dụng > Lưu dữ liệu vô EEPROM
+• Lưu danh sách người sử dụng → Lưu dữ liệu vô EEPROM
 
 • Khóa/mở khóa tự động → Dùng khóa điện từ (Solenoid)
 
-• Phát hiện rung động mạnh > Cảm biến gia tốc, cảm biến rung
-Cảnh báo đột nhập trái phép > Dùng âm thanh, gửi trạng thái
+• Phát hiện rung động mạnh → Cảm biến gia tốc, cảm biến rung
+Cảnh báo đột nhập trái phép → Dùng âm thanh, gửi trạng thái
 vào/ra/cảnh báo đột nhập về điện thoại qua mạng Internet.
 
 <img width="871" height="624" alt="image" src="https://github.com/user-attachments/assets/1090b46f-5fb3-4a0e-9181-fb71622d9ae0" />
