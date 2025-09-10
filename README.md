@@ -73,10 +73,4 @@ vẫn tay, mã vạch, mã QR, thẻ RFID
 Cảnh báo đột nhập trái phép > Dùng âm thanh, gửi trạng thái
 vào/ra/cảnh báo đột nhập về điện thoại qua mạng Internet.
 
-
-Nếu không hợp lệ → còi hú báo động.
-
-ESP8266 có thể gửi dữ liệu mở cửa lên server/web để giám sát.
-
-Có nút nhấn Thêm/Xóa để quản lý thẻ RFID trực tiếp trên mạch.
 <img width="871" height="624" alt="image" src="https://github.com/user-attachments/assets/1090b46f-5fb3-4a0e-9181-fb71622d9ae0" />
