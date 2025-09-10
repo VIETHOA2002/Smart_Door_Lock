@@ -1,19 +1,5 @@
 # IOT_01
-*Chức năng
 
-• Mở khóa cho người được phép vào nhà → Phân biệt được
-người được phép/ko được phép vào nhà → Dùng cảm biến
-vẫn tay, mã vạch, mã QR, thẻ RFID
-
-• Có thể thêm/bớt người sử dụng → Có nút nhấn thêm/xóa user
-
-• Lưu danh sách người sử dụng > Lưu dữ liệu vô EEPROM
-
-• Khóa/mở khóa tự động → Dùng khóa điện từ (Solenoid)
-
-• Phát hiện rung động mạnh > Cảm biến gia tốc, cảm biến rung
-Cảnh báo đột nhập trái phép > Dùng âm thanh, gửi trạng thái
-vào/ra/cảnh báo đột nhập về điện thoại qua mạng Internet.
 
 1. Nguồn cấp
 
@@ -73,11 +59,20 @@ Switch: Chuyển đổi UART giữa ESP8266 và USB để nạp code/ giao tiế
 
 👉 Đây là một bo mạch điều khiển hệ thống khóa cửa thông minh qua RFID + WiFi:
 
-Người dùng quét thẻ RFID (RC522).
+• Mở khóa cho người được phép vào nhà → Phân biệt được
+người được phép/ko được phép vào nhà → Dùng cảm biến
+vẫn tay, mã vạch, mã QR, thẻ RFID
 
-ATmega328P kiểm tra thẻ trong bộ nhớ.
+• Có thể thêm/bớt người sử dụng → Có nút nhấn thêm/xóa user
 
-Nếu hợp lệ → kích relay mở khóa điện tử 12V, đồng thời phát tín hiệu LED/buzzer.
+• Lưu danh sách người sử dụng > Lưu dữ liệu vô EEPROM
+
+• Khóa/mở khóa tự động → Dùng khóa điện từ (Solenoid)
+
+• Phát hiện rung động mạnh > Cảm biến gia tốc, cảm biến rung
+Cảnh báo đột nhập trái phép > Dùng âm thanh, gửi trạng thái
+vào/ra/cảnh báo đột nhập về điện thoại qua mạng Internet.
+
 
 Nếu không hợp lệ → còi hú báo động.
 
